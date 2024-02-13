@@ -2,9 +2,9 @@
 
 ## Overview
 
-This year the Ada staff has generously agreed to contribute their culinary skills to a coding bootcamp booth offering food & info pamphlets at the [Georgetown Carnival](http://www.georgetowncarnival.com/). It's the day before the festivities kick off and _someone's_ Cavalier King Charles Spaniel has done his best to shred all of their recipes! Oh no! Can you help Ada staff put everything back together and save Carnival?
+CodePath students are coming together to create a super study guide. Student submssions have all been organized and a final study guide is ready for their study session tomorrow when a nasty virus comes in and corrupts the file. Can you help your fellow students put all the pieces back together?
 
-In this activity you'll be working with your fellow Adies to put together multiple scraps from a single recipe using Git. You'll accomplish this by successively merging in content from each individuals' copy of the recipes repo. Once all the of merges are finished (and any merge conflicts resolved) you'll have a complete recipe document which can be submitted to the original repository with a pull request.
+In this activity, you will be working with your group members to put together multiple pieces of a single student submission using Git. You will successively merge in content from each person’s copy of their submission repo. Once all the merges are complete and all merge conflicts are resolved, you’ll have a complete study guide you can submit to the original repo with a pull request.
 
 ## Learning Goals
 
@@ -18,6 +18,7 @@ With this activity you will be able to encounter and resolve merge conflicts in 
 
 Before we can start putting the recipe together we need to make sure that everyone in your group is working from the same starting point and can effectively contribute to the recipe building effort.
 
+<!--Update group names -->
 1. **Split into groups**:
    - Aardvark
    - Curassow
@@ -28,15 +29,15 @@ Before we can start putting the recipe together we need to make sure that everyo
    - Rhino
    - Tarsier
  
-2. **Fork the activity repo**: One person in your group should fork the [carnival-recipes](https://github.com/AdaGold/carnival-recipes) repo and then add everyone else as a collaborator.
+2. **Fork the activity repo**: One person in your group should fork the [carnival-recipes](./public-repo-link) <!--Insert public repo-->  repo and then add everyone else as a collaborator.
     - To add collaborators, go to **Settings** --> **Manage access** --> **Invite teams or people**
     - Invite collaborators will need to accept the invitation. 
 3. **Clone the forked repo**: Everyone in your group should clone the forked repository.
-    - Check that you have the proper remote (and not the AdaGold remote) by typing `git remote -v` in the terminal.
+    - Check that you have the proper remote (and not the CodePath remote) by typing `git remote -v` in the terminal.
 
 4. **Find your recipe scrap**: Each group is assigned six(6) or seven(7) recipe scraps, located in the `/scraps` directory, that should all be part of the same recipe. You can split these scraps up amongst your group however you wish.
 
-
+<!--Update for study guide theme theme -->
 ### Building the recipe
 
 Once everyone in your group has completed the baseline setup instructions above you're ready to start building the recipe together. 
@@ -44,8 +45,8 @@ Once everyone in your group has completed the baseline setup instructions above 
 1. **Create your branch**: Each person on a team will create a branch for themselves. Use `git switch -c BRANCH-NAME` to create the branch. Replace `BRANCH-NAME` with a name based off the recipe scrap you have.
 2. **Add your recipe scrap**: Copy the contents of your recipe scrap into the recipe file and then add and commit your changes to the recipe file. After completing this step each person in your group should have **different** content within the recipe file in their local repository.
 3. Each team member will push their changes up to github with `git push origin BRANCH-NAME`.
-4. Each team member will open a **pull request** trying to merge their branch on github into `main`.  **Be very careful to make the PR against your forked repository and NOT AdaGold.**
-    - To make the PR against your team members forked respository and not AdaGold, we will need to change the base repository
+4. Each team member will open a **pull request** trying to merge their branch on github into `main`.  **Be very careful to make the PR against your forked repository and NOT CodePath.**
+    - To make the PR against your team members forked respository and not CodePath, we will need to change the base repository
     - If there is a report of a merge conflict you will need to:
        - Pull the current state of main into **their feature branch** with `git pull origin main`
        - in VS code select **accept both changes**
@@ -67,9 +68,9 @@ Once everyone in your group has completed the baseline setup instructions above 
 
 ### Activity Workflow
 
-![activity workflow](./merge-carnival.png)
+<!--Update for study guide theme -->
+![activity workflow](./merge-mayhem.png)
 
-<!-- Original Image:  https://drive.google.com/file/d/11ZYH5JmApQZVstjjhCpd9H3hplPnKPAY/view?usp=sharing  -->
 
 ## General advice
 
