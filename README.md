@@ -1,4 +1,4 @@
-# Merge Conflict Carnival
+# Merge Mayhem
 
 ## Overview
 
@@ -99,7 +99,4 @@ There are several ways for teams to collaborate on a project and handle merging 
 
 # Resources
 
-- [Original Diagram Image](https://www.lucidchart.com/invitations/accept/c3fd712e-9be6-4fec-be51-9d433d7ed941)
-- [Intro to Git](https://learn-2.galvanize.com/cohorts/2498/blocks/1032/content_files/intro-to-git/collaborating.md) 
-- [Branches in Git](https://learn-2.galvanize.com/cohorts/2498/blocks/1441/content_files/branches-in-git/branches.md).
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
