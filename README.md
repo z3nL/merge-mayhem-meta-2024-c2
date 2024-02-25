@@ -21,7 +21,7 @@ Before we can start putting the study guide together, we need to make sure that 
 <!--Update group names -->
 1. **Split into groups**:
    - Group 1: CSS Basics
-   - Curassow
+   - Group 2: CSS Box Model
    - Gecko
    - Sloth
    - Lionfish
