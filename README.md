@@ -28,7 +28,7 @@ Before we can start putting the study guide together, we need to make sure that 
    - Pangolin
    - Rhino
    - Tarsier
- 
+
 2. **Fork the activity repo**: One person in your group should fork the [study-guide-repo](./public-repo-link) <!--Insert public repo--> repo and then add everyone else as a collaborator.
     - To add collaborators, go to **Settings** --> **Manage access** --> **Invite teams or people**
     - Invited collaborators will need to accept the invitation.
@@ -36,7 +36,6 @@ Before we can start putting the study guide together, we need to make sure that 
     - Check that you have the proper remote (and not the CodePath remote) by typing `git remote -v` in the terminal.
 
 4. **Find your study guide scrap**: Each group is assigned six(6) or seven(7) study guide scraps, located in the `/scraps` directory, that should all be part of the same study guide. You can split these scraps up amongst your group however you wish.
-
 
 ### Building the Study Guide
 
@@ -52,7 +51,7 @@ Once everyone in your group has completed the baseline setup instructions above,
        - In VS Code, select **accept both changes**
        - Resolve the merge conflicts by rearranging the study guide and commit the result
        - Push the result up to GitHub with `git push origin BRANCH-NAME`
-       - Then attempt to merge their pull request. If new changes have happened on main, they may have to repeat step 1 above. 
+       - Then attempt to merge their pull request. If new changes have happened on main, they may have to repeat step 1 above.
 5. Merge changes simultaneously, kind of like the _ad-hoc_ strategy.
     - **Remember**: Whoever on your team is merging their changes into main must successfully finish that process (including fixing any merge conflicts!) before the next person can begin.  Help them with resolving the conflicts.
     - Work with your fellow team members to resolve any merge conflicts.
@@ -68,9 +67,7 @@ Once everyone in your group has completed the baseline setup instructions above,
 
 ### Activity Workflow
 
-
 ![activity workflow](./merge-mayhem.png)
-
 
 ## General advice
 
@@ -98,6 +95,6 @@ There are several ways for teams to collaborate on a project and handle merging 
   - It uses a more advanced feature of Git known as _branching_.
   - Branching is generally considered the heart of a Git-based workflow and you'll have an opportunity to try it on a larger team project. This is what we're trying today!
 
-# Resources
+## Resources
 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
