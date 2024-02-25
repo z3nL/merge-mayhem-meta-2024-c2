@@ -20,7 +20,7 @@ Before we can start putting the study guide together, we need to make sure that 
 
 <!--Update group names -->
 1. **Split into groups**:
-   - Aardvark
+   - Group 1: CSS Basics
    - Curassow
    - Gecko
    - Sloth
