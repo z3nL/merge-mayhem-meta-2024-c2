@@ -1,0 +1,1 @@
+**Conditional statements** are programming commands that are used to handle decisions and control program flow. We use the keywords `if` and `else` to define a conditional statement in JavaScript. Conditional statements in JavaScript follow a similar syntax as conditional statements in Java.

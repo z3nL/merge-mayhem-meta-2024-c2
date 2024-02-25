@@ -1,0 +1,1 @@
+We make decisions everyday from what to eat, what to do first when we wake up, etc. In order to do this we often ask ourselves simple yes or no questions to make decisions. In order to help computers make decisions, we use **conditional statements** to tell the computer what to do at various points in our program.
