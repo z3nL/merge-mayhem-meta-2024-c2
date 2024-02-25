@@ -18,16 +18,15 @@ With this activity, you will be able to encounter and resolve merge conflicts in
 
 Before we can start putting the study guide together, we need to make sure that everyone in your group is working from the same starting point and can effectively contribute to the study guide building effort.
 
-<!--Update group names -->
 1. **Split into groups**:
    - Group 1: CSS Basics
    - Group 2: CSS Box Model
    - Group 3: Flexbox
-   - Sloth
-   - Lionfish
-   - Pangolin
-   - Rhino
-   - Tarsier
+   - Group 4: HTML Basics
+   - Group 5: HTML Elements
+   - Group 6: HTML Forms
+   - Group 7: Variables
+   - Group 8: Conditionals
 
 2. **Fork the activity repo**: One person in your group should fork the [study-guide-repo](./public-repo-link) <!--Insert public repo--> repo and then add everyone else as a collaborator.
     - To add collaborators, go to **Settings** --> **Manage access** --> **Invite teams or people**
