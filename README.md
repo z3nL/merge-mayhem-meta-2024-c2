@@ -22,7 +22,7 @@ Before we can start putting the study guide together, we need to make sure that 
 1. **Split into groups**:
    - Group 1: CSS Basics
    - Group 2: CSS Box Model
-   - Gecko
+   - Group 3: Flexbox
    - Sloth
    - Lionfish
    - Pangolin
